@@ -1,6 +1,96 @@
 {
   "data": [
     {
+      "title": "Lectures",
+      "hasNestedButtons": true,
+      "value": [
+        {
+          "title": "lec1",
+          "label": "Lecture 1",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1-C76b5ZPKdFfC_ty4E-cJZezwruZs8-t/view"
+          }
+        },
+        {
+          "title": "Lec2",
+          "label": "Lecture 2",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1-Lc4TXhN5_PKGgOR8xnQvrN6Wg-LyRSS/view"
+          }
+        },
+        {
+          "title": "Lec3",
+          "label": "lecture 3",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/10BZCBv5srn366ho6Qb1i55rQ8PVqQBro/view"
+          }
+        },
+        {
+          "title": "Lec4",
+          "label": "Lecture 4",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/101RibGVvZHsUHgyiL5JrmAG6LRaSOBRb/view"
+          }
+        },
+        {
+          "title": "Lec5",
+          "label": "Lecture 5",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/10HcBn9vBGbHxSVxKR5VsbVAe-AxCN6EJ/view"
+          }
+        },
+        {
+          "title": "Lec6",
+          "label": "Lecture 6",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1HgF9GtMaPwPdKQu1GkD9Mfy1D5cHe-L0/view"
+          }
+        },
+        {
+          "title": "Lec7",
+          "label": "Lecture 7",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/10sgJtkEiavCjLQQNZXyDQ__1Aoyz-VnV/view"
+          }
+        },
+        {
+          "title": "Lec8",
+          "label": "Lecture 8",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/11DdMRQ5xHKL3YaMz7dikUH8gNWFFGWMG/view"
+          }
+        },
+        {
+          "title": "Lec9 ",
+          "label": "Lecture 9 ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/11HABU7vex0Xwc3OqV09xGtcH5_oPeu1C/view"
+          }
+        },
+        {
+          "title": "Lec10",
+          "label": "Lecture 10 ",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/115bRrgjpByb7vAxBcHR4jAEP7ASEMx4P/view"
+          }
+        },
+        {
+          "title": "Lec11",
+          "label": "Lecture 11",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/1167jcw-W3Nlu6_7JmARIhxWTUsTTsdcx/view"
+          }
+        },
+        {
+          "title": "Lec12",
+          "label": "Lecture 12",
+          "value": {
+            "pdf": "https://drive.google.com/file/d/11EYb2bktLMqUQAqtYPK2c-aKMCTVzYy7/view"
+          }
+        }
+      ]
+    },
+    {
       "title": "videos",
       "label": " ",
       "hasNestedButtons": true,
