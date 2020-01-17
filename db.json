@@ -19,38 +19,35 @@
     },
     {
       "title": "exams",
+      "label": "",
       "hasNestedButtons": true,
       "value": [
         {
           "title": "Final 2019",
           "label": 2019,
           "value": {
-            "pdf": "https://drive.google.com/file/d/1MQwupKD5MtuLIQGA0DnWPVjABT59pqDX/view",
-            "togglePdf":"https://drive.google.com/file/d/1qAekZsp4DtCCpvjNpqTsVAvGa14V_rBx/view"
+            "pdf": "https://drive.google.com/file/d/1MQwupKD5MtuLIQGA0DnWPVjABT59pqDX/view"
           }
         },
         {
           "title": "Final 2018 ",
-          "label":2018 ,
+          "label": 2018,
           "value": {
-            "pdf": "https://drive.google.com/file/d/1mSj7GBTosCJ6HBgI8suZI4bdohw-OY2a/view",
-            "togglePdf":"https://drive.google.com/file/d/16CH1HlDXjNzqlF2REaYF-EAmHQTKGgfE/view"
+            "pdf": "https://drive.google.com/file/d/1mSj7GBTosCJ6HBgI8suZI4bdohw-OY2a/view"
           }
         },
         {
           "title": "Final 2017 ",
           "label": 2017,
           "value": {
-            "pdf": "https://drive.google.com/file/d/1aNcRHYFjAhnyN0XZxrATwefYUWr_dVmF/view",
-            "togglePdf":"https://drive.google.com/file/d/1Sc7Od43zI_syMa7o7X47-1AiJgTPhXjF/view"
+            "pdf": "https://drive.google.com/file/d/1aNcRHYFjAhnyN0XZxrATwefYUWr_dVmF/view"
           }
         },
         {
           "title": "Final ",
           "label": 2016,
           "value": {
-            "pdf": "https://drive.google.com/file/d/1jleQMOJLrt33BEGlSI5ipy4kgL_9usjs/view",
-            "togglePdf":"https://drive.google.com/file/d/1CEuK0JGa0v2XQCDa6QrdxPqnRE61cdCo/view"
+            "pdf": "https://drive.google.com/file/d/1jleQMOJLrt33BEGlSI5ipy4kgL_9usjs/view"
           }
         }
       ]
