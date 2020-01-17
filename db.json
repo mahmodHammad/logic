@@ -16,41 +16,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "exams",
-      "label": "",
-      "hasNestedButtons": true,
-      "value": [
-        {
-          "title": "Final 2019",
-          "label": 2019,
-          "value": {
-            "pdf": "https://drive.google.com/file/d/1MQwupKD5MtuLIQGA0DnWPVjABT59pqDX/view"
-          }
-        },
-        {
-          "title": "Final 2018 ",
-          "label": 2018,
-          "value": {
-            "pdf": "https://drive.google.com/file/d/1mSj7GBTosCJ6HBgI8suZI4bdohw-OY2a/view"
-          }
-        },
-        {
-          "title": "Final 2017 ",
-          "label": 2017,
-          "value": {
-            "pdf": "https://drive.google.com/file/d/1aNcRHYFjAhnyN0XZxrATwefYUWr_dVmF/view"
-          }
-        },
-        {
-          "title": "Final ",
-          "label": 2016,
-          "value": {
-            "pdf": "https://drive.google.com/file/d/1jleQMOJLrt33BEGlSI5ipy4kgL_9usjs/view"
-          }
-        }
-      ]
     }
   ]
 }
